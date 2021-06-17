@@ -1,0 +1,138 @@
+body {
+    background: url("wp2639558.jpg");
+    background-repeat: no-repeat;
+    width: 20px;
+    color: rgb(255, 255, 255);
+    font-family: 'Caveat', cursive;
+  }
+  h1{
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    font-size: 50px;
+    color: rgb(57, 226, 113);
+  }
+  
+  footer{
+      color: white;
+      display: inline-block;
+      position:absolute;
+      top: 1000px;
+      left: 10px;
+  }
+  .logo {
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+    left: 10px;
+   
+  }
+  
+  .logo img {
+    width: 100px;
+  }
+  
+  .logo p {
+    position: absolute;
+    top: 40px;
+    left: 17px;
+    font-size: 20px;
+    
+    
+  }
+  
+  
+  
+  .btn {
+    position: absolute;
+    right: 70px;
+    top: 48px;
+    border 2px solid;
+    border-color: black;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: rgb(57, 226, 113);
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    font-weight: 900;
+  
+  
+  }
+  
+  .btn:hover{
+      background-color: green;
+      cursor: pointer;
+      color: white;
+     
+  }
+  
+  .bar a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  
+  .bar {
+    position: absolute;
+    left: 420px;
+    top: 50px;
+    border: 2px solid rgb(57, 226, 113);
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 05px;
+  }
+  
+  .bar a {
+    padding: 20px;
+    font-size: 25px;
+   
+    
+  }
+  
+  .bar a:hover{
+      color: gray;
+      text-decoration: underline;
+  
+  }
+  
+  .bar a:active{
+      color: gray;
+      text-decoration: underline;
+  
+  }
+  
+  .table{
+      position: absolute;
+      top: 100px;
+      left: 100px;
+      font-size: 20px;
+      padding: 100px;
+      display: flex;
+  }
+
+  #th1, #th2{
+      font-size: 40px;
+      padding: 10px;
+      
+  }
+
+  #th1{
+    position: absolute;
+    top: 100px;
+    
+  }
+  #th2{
+    position:absolute;
+    top: 100px;
+    left: 270px;
+  }
+  .tb{
+    position: relative;
+    
+    top:60px;
+    left: 100px;
+
+    
+    }
+  
+   

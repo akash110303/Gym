@@ -1,0 +1,199 @@
+body {
+  background: url("wp2639558.jpg");
+  background-repeat: no-repeat;
+  width: 20px;
+  color: rgb(255, 255, 255);
+  font-family: 'Caveat', cursive;
+}
+
+footer{
+    color: white;
+    display: inline-block;
+    position:absolute;
+    top: 1000px;
+    left: 10px;
+}
+.logo {
+  display: inline-block;
+  position: absolute;
+  top: 20px;
+  left: 10px;
+ 
+}
+
+.logo img {
+  width: 100px;
+}
+
+.logo p {
+  position: absolute;
+  top: 40px;
+  left: 17px;
+  font-size: 20px;
+  
+}
+
+
+
+.btn {
+  position: absolute;
+  right: 70px;
+  top: 48px;
+  border 2px solid;
+  border-color: black;
+  padding: 10px 20px;
+  border-radius: 20px;
+  background-color: rgb(57, 226, 113);
+  font-family: 'Caveat', cursive;
+  font-size: 20px;
+  font-weight: 900;
+
+
+}
+
+.btn:hover{
+    background-color: green;
+    cursor: pointer;
+    color: white;
+   
+}
+
+.bar a {
+  color: white;
+  text-decoration: none;
+}
+
+
+.bar {
+  position: absolute;
+  left: 420px;
+  top: 50px;
+  border: 2px solid rgb(57, 226, 113);
+  border-radius: 20px;
+  padding-top: 5px;
+  padding-bottom: 05px;
+}
+
+.bar a {
+  padding: 20px;
+  font-size: 25px;
+ 
+  
+}
+
+.bar a:hover{
+    color: gray;
+    text-decoration: underline;
+
+}
+
+.bar a:active{
+    color: gray;
+    text-decoration: underline;
+
+}
+.form{
+    border: 2px solid rgb(57, 226, 113);
+    border-radius: 20px;
+    padding: 10px;
+    padding-left: 25px;
+    position: absolute;
+    top: 200px;
+    left: 35px;
+    color: white;
+    font-size: 25px;
+}
+
+.frm input{
+    position: relative;
+    border: 3px solid rgb(57, 226, 113);
+    border-radius: 10px;
+    margin-top: 15px;
+    padding: 2px;
+
+}
+
+.time{
+    border: 2px solid rgb(57, 226, 113);
+    border-radius: 10px;
+    padding: 2px;
+}
+
+.frm a{
+    color: rgb(57, 226, 113);
+
+    
+}
+
+.form a:hover{color: green;}
+
+.frm{
+    margin-left: 15px;
+    padding: 5px;
+    padding-top: -500px;
+    position:relative;
+    
+}
+
+.fbtn{
+    position:absolute;
+    top: -40px;
+    border: 2px solid rgb(57, 226, 113)
+    border-radius:rgb(57, 226, 113)20px;
+    background-color: rgb(57, 226, 113);
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.rbtn{
+    position:absolute;
+    top: -40px;
+    left: 200px;
+    border: 2px solid rgb(57, 226, 113)
+    border-radius:rgb(57, 226, 113)20px;
+    background-color: rgb(57, 226, 113);
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    font-weight: 900;
+    
+
+}
+
+.fbtn:hover{
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+.form h3{
+  
+   font-size: 60px;
+   position: relative;
+   left: 50px;
+   top: -30px;
+    color: rgb(57, 226, 113);
+}
+
+.chck:hover{
+    color: rgb(34, 25, 85);
+    cursor: pointer;
+}
+
+#male , #female{
+    cursor: pointer;
+}
+
+.gndr{
+    cursor: pointer;
+}
+
+.fdiv{
+    padding:20px;
+    position: relative;
+    top: -50px;
+}
+
+
+
+
+
